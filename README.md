@@ -10,9 +10,9 @@ The repository is organized into three main focuses:
 
 ```text
 .
-├── Bash/               # Solutions to bioinformatics challenges on 
-├── Python_basic/       # Curated basic Python lessons and foundational 
-└── English/            # Notes, vocabulary, and materials for language 
+├── Bash/               # Solutions to bioinformatics challenges on rosalind.info
+├── Python_Basic/       # Core Python foundational tracks tailored for Data Science & Statistics
+└── English/            # Notes, vocabulary, and materials for technical language practice
 ```
 
 ### **🧬 1. Rosalind Bioinformatics Challenges (Bash)**
